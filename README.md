@@ -5,11 +5,7 @@
 ###    Thank you for visiting my GitHub
 ###    _I hope you enjoy it here_ 🪄
 
-<br><br>
 
-안녕하세요.<br>
-제 이름은 이수현 이고, 백엔드를 공부하고 있습니다.<br>
-  
   <br><br><br>
 
 ### ⚒️Tech Stack⚒️
@@ -37,8 +33,9 @@
 </div>
   <br><br>
 <div display="inline-block">
-    💡 DevOps / Infra <br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    💡 DevOps / Infra <br> 
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+    <img src="https://img.shields.io/badge/naver-02C75A?style=for-the-badge&logo=naver&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> -->
 </div>
   <br><br>
@@ -68,8 +65,15 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white"> -->
 </div>
-
-
+  
+  <br>
+  <br>
+<div display="inline-block">
+  💡 I'm Studying 
+  <br>
+  <img src="https://img.shields.io/badge/docker-2396ee?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp;
+  
 <br><br>
 
 #### ✏️ My Study Log
