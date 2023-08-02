@@ -5,8 +5,19 @@
 ###    Thank you for visiting my GitHub
 ###    _I hope you enjoy it here_ 🪄
 
+<br><br>
 
-  <br><br><br>
+#### ✏️ My Study Log
+ 
+  <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssu-uky&layout=compact)](https://github.com/ssu-uky/github-readme-stats)
+  
+  <br>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ssu-uky&color=dark)](https://velog.io/@ssu-uky)
+
+  <br><br>
 
 ### ⚒️Tech Stack⚒️
   <br>
@@ -61,27 +72,19 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-<!--   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
   
   <br>
   <br>
 <div display="inline-block">
-  💡 I'm Studying 
+  💡 I'm Studying Now
   <br>
   <img src="https://img.shields.io/badge/docker-2396ee?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">&nbsp;
   
-<br><br>
-
-#### ✏️ My Study Log
- 
-  <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssu-uky&layout=compact)](https://github.com/ssu-uky/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ssu-uky&color=dark)](https://velog.io/@ssu-uky)
 
 </div>
