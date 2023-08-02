@@ -2,10 +2,17 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=9A99FF&text=ssu-uky's&nbsp;GitHub%20!&height=150&fontSize=40&fontAlignY=60&desc=Welcome&nbsp;to&nbsp;&descAlignY=20&descAlign=50&descSize=30)
 
-####    Thank you for visiting my GitHub
-###    _I hope you enjoy it here_ 🪄
+  ---
+  <br>
+<a href="https://velog.io/@ssu-uky">
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ssu-uky"/>
+</a>
 
 <br>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssu-uky&count_bg=%23BEA2FF&title_bg=%2374BDFF&icon=bilibili.svg&icon_color=%23FFFFFF&title=count&edge_flat=false)](https://github.com/ssu-uky)
+<br><br>
+
 
 ### <b> ⚒️&nbsp;Tech Stack&nbsp;⚒️ </b>
   <br>
@@ -29,6 +36,9 @@
   <div display="inline-block">
   💡 I'm Studying Now
   <br><br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>&nbsp; <br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp;
@@ -62,7 +72,7 @@
 
 <br><br>
   
-### ✏️ My Study Log
+<!-- ### ✏️ My Study Log
  
   <br>
 
@@ -73,5 +83,5 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ssu-uky&color=dark)](https://velog.io/@ssu-uky)
 
   
-  <br>
+  <br> -->
   
