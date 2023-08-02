@@ -14,7 +14,7 @@
 <br><br>
 
 
-### <b> ⚒️&nbsp;Tech Stack&nbsp;⚒️ </b>
+### <b> 🛠️&nbsp;Tech Stack&nbsp;🛠️ </b>
   <br>
 <div display="inline-block">
     💡 Tools <br><br>
