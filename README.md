@@ -22,7 +22,8 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>&nbsp; <br>
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>&nbsp;
- <img src="https://img.shields.io/badge/NAVER CLOUD PLATFORM-03C75A?style=flat&logo=naver&logoColor=white"/>&nbsp; <br>
+ <img src="https://img.shields.io/badge/NAVER CLOUD PLATFORM-03C75A?style=flat&logo=naver&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>&nbsp; <br>
  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/MySQL-036189?style=flat&logo=mysql&logoColor=white"/>&nbsp; <br>
