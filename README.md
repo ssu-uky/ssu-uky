@@ -1,8 +1,17 @@
 <div align="center">
+<br>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=9A99FF&text=ssu-uky's&nbsp;GitHub%20!&height=150&fontSize=40&fontAlignY=60&desc=Welcome&nbsp;to&nbsp;&descAlignY=20&descAlign=50&descSize=30)
 
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ssu-uky&theme=tokyonight&hide_border=true&locale=ko)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssu-uky&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/ssu-uky/github-readme-stats)
+
+![ssu-uky's github stats](https://github-readme-stats.vercel.app/api?username=ssu-uky&show_icons=true&hide_border=true&&theme=tokyonight) -->
+
   ---
+  
   <br>
 <a href="https://velog.io/@ssu-uky">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ssu-uky"/>
@@ -60,18 +69,6 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>&nbsp;
 </div>
   
-<!-- <div display="inline-block">
-    💡 Used at least once
-  <br><br>
-</div>
-<div display="inline-block">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;
-</div> -->
 
 <br><br>
   
@@ -79,7 +76,6 @@
  
   <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssu-uky&layout=compact)](https://github.com/ssu-uky/github-readme-stats)
   
   <br>
   
