@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=9A99FF&text=ssu-uky's&nbsp;GitHub%20!&height=150&fontSize=40&fontAlignY=60&desc=Welcome&nbsp;to&nbsp;&descAlignY=20&descAlign=50&descSize=30)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=9A99FF&text=ssu-uky's&nbsp;World%20!&height=150&fontSize=40&fontAlignY=60&desc=Welcome&nbsp;to&nbsp;&descAlignY=20&descAlign=50&descSize=30)
 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ssu-uky&theme=tokyonight&hide_border=true&locale=ko)](https://git.io/streak-stats)
