@@ -33,9 +33,9 @@
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/NAVER CLOUD PLATFORM-03C75A?style=flat&logo=naver&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>&nbsp; <br>
- <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>&nbsp;
- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white"/>&nbsp;
- <img src="https://img.shields.io/badge/MySQL-036189?style=flat&logo=mysql&logoColor=white"/>&nbsp; <br>
+<!--  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>&nbsp; -->
+<!--  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=Postgresql&logoColor=white"/>&nbsp; -->
+<!--  <img src="https://img.shields.io/badge/MySQL-036189?style=flat&logo=mysql&logoColor=white"/>&nbsp; <br> -->
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white"/>&nbsp;
@@ -46,13 +46,13 @@
   <div display="inline-block">
   💡 I'm Studying Now
   <br><br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>&nbsp; <br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>&nbsp; <br>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>&nbsp; -->
+<!--   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>&nbsp; <br> -->
+<!--   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>&nbsp; -->
+<!--   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>&nbsp; -->
+<!--   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>&nbsp;  -->
+<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>&nbsp; <br> -->
+<!--   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>&nbsp;
